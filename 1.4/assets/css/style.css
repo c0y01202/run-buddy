@@ -309,38 +309,5 @@ section {
   color: #fce138;
 }
 
-.contact-form input, .contact-form textarea {
-  border: 1px solid #024e76;
-  border-radius: 10px;
-  display: block;
-  padding: 7px 15px;
-  font-size: 16px;
-  color: #024e76;
-  width: 100%;
-  margin-bottom: 15px;
-  margin-top: 5px;
-}
-
-.contact-form input:focus, .contact-form textarea:focus {
-  background-color: rgba(255,255,255, 1);
-  outline: none;
-  border: 1px solid #39a6b2;
-}
-
-.contact-form button {
-  width: 100%;
-  border: none;
-  border-radius: 10px;
-  background: #fce138;
-  color: #024e76;
-  text-align: center;
-  padding: 15px 0;
-  font-size: 16px;
-}
-
-.contact-form button:hover {
-  color: #fce138;
-  background: #39a6b2;
-}
 
 /* REACH OUT STYLES END */
