@@ -9,7 +9,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-
+ https://c0y01202.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Claudia Chittim
