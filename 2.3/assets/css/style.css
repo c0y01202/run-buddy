@@ -255,6 +255,10 @@ section {
   color: #024e76;
 }
 
+.step:nth-child(even) {
+  border-bottom: 1px solid #39a6b2;
+}
+
 /* WHAT YOU DO STYLES END */
 
 /* MEET THE TRAINERS START */
@@ -347,6 +351,14 @@ section {
   width: 100%;
   margin-bottom: 15px;
   margin-top: 5px;
+}
+
+.form-input {
+  background-color: rgba(255,255,255, 0.75);
+}
+
+.form-input:focus {
+  background-color: rgba(255,255,255, 1);
 }
 
 .contact-form button: :hover {
